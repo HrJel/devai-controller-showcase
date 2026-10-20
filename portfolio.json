@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "projectId": "devai-controller",
+  "name": "Dev AI Controller",
+  "publicShowcase": true,
+  "presentationOwner": "Jelvan R.",
+  "unaffiliatedPublication": true,
+  "documentationOnly": true,
+  "sourceCodeIncluded": false,
+  "productionEquivalent": false,
+  "ndaAdapted": true,
+  "lastReviewed": "2026-10-20",
+  "verifiedStatus": "Web/API repository states owner-reported development completion; production acceptance checks remain open. Android/iOS shells are separate.",
+  "portfolio": {
+    "section": "Projects / Apps",
+    "portfolioHome": "https://portfolio.jelvan.pro",
+    "viewerModes": {
+      "macos": {
+        "displayType": "browser-viewport",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "web": {
+        "displayType": "web-reference",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "ios": {
+        "displayType": "swiftui-webview-source-unverified-release",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "android": {
+        "displayType": "capacitor-shell-source",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      }
+    },
+    "showUrlInViewer": false,
+    "allowOpenExternal": false,
+    "allowCopyUrl": false,
+    "previewFallback": "approved-local-screenshot-or-explanatory-placeholder"
+  }
+}
