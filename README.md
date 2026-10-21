@@ -1,3 +1,19 @@
+## New login and protected dashboard source — 21 October 2026
+
+These are **new independent showcase screens**, not the original/client product or a verified production release. The images below are vector **illustrative previews**, not live-session screenshots.
+
+![Login screen UI preview](assets/screenshots/login.svg)
+
+![Dashboard UI preview](assets/screenshots/dashboard.svg)
+
+**Source features:** Protected task dashboard; record search and status; D1 scoped persistence; account administration; server-gated login and admin interface, Turnstile verification and scoped D1-backed session/workspace foundation.
+
+**Not implemented:** This adaptation does not execute AI agents, edit GitHub or deploy infrastructure.
+
+See [security implementation, deployment and acceptance checklist](docs/APP_SECURITY_AND_SETUP.md) and [database schema](schema.sql). Requires Cloudflare staging configuration and security verification before serving real accounts.
+
+---
+
 # Dev AI Controller — public portfolio showcase
 
 ## Technical documentation (current audit)
